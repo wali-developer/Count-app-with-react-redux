@@ -1,0 +1,33 @@
+.container {
+  text-align: center;
+  margin-top: 15%;
+}
+
+.container h1,
+h3 {
+  color: gray;
+}
+
+.container button {
+  padding: 0px 10px;
+  background-color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  color: gray;
+  outline: none;
+  font-size: 35px;
+}
+.container button:hover {
+  background-color: gray;
+  color: white;
+  outline: none;
+}
+
+.container input {
+  width: 30px;
+  height: 30px;
+  font-size: 20px;
+  margin: 0 15px;
+  border: none;
+  padding-left: 20px;
+}
